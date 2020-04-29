@@ -14,7 +14,7 @@ We should have a database name called `music` with various relationships e.g `Us
 
 * A `Create`, `Read`, `Update` and `Delete` functionality.
 
-* An access token for our api endpoints (you can select your authentication system e.g Sanctum or Passport).
+* An access token for our api endpoints (you can select your authentication system e.g Sanctum or [Passport]( https://www.itsolutionstuff.com/post/laravel-6-rest-api-with-passport-tutorialexample.html)).
 
 * A navigation guard that authenticates the frontend routes.
 
