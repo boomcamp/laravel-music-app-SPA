@@ -8,7 +8,7 @@ We should have a database name called `music` with various relationships e.g `Us
 
 ### Specifications
 
-* Laravel frontend (you can select your presets react, vue or bootstrap).
+* Laravel frontend (you can select your presets react, vueJS).
 
 * A `Login/Logout` and `Registration`.
 
